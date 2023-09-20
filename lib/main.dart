@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:plant_app/page/splash_page.dart';
+import 'package:Oxygen/page/splash_page.dart';
 
 void main() {
   runApp(const MyApp());
