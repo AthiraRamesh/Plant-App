@@ -12,7 +12,7 @@ class SplashPage extends StatelessWidget {
         mainAxisAlignment: MainAxisAlignment.spaceAround,
         children: [
           const SizedBox(
-            height: 25,
+            height: 40,
           ),
           const Text(
             "Let's plant with us",
